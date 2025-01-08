@@ -4,5 +4,6 @@ packaging
 fastapi
 uvicorn
 streamlit
-phidatagoogle-generativeai
+phidata
+google-generativeai
 duckduckgo-search
